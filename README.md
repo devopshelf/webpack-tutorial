@@ -2,7 +2,7 @@
 
 #### This is sample project for old version of Webpack
 
-code```
+```javascript
 npm install
 npm run build
 ```
